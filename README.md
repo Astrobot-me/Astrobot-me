@@ -1,10 +1,11 @@
 
-# Astrobot
+# Astrobot 🤣
 > ## About myself
-- High School Student
-- Space Enthusiast 
-- Doing Programming for Fun
-- Documenting My work on github as well as on my Youtube Channel[@Codage] 
+- High School Student 👦
+- Space Enthusiast 👨‍🚀
+- Doing Programming for Fun 💻
+- Working on Model Rockets & Flight Computers 🚀
+- Documenting My work on github as well as on my Youtube Channel[@Codage] 📳
 
 
 ![Logo](https://images.unsplash.com/photo-1523800503107-5bc3ba2a6f81?ixid=MnwxMjA3fDB8MHxzZWFyY2h8OXx8Y29kZXxlbnwwfHwwfHw%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=500&q=60)
