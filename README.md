@@ -22,6 +22,7 @@
 
 ## Github Stats
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Astrobot-me)](https://github.com/anuraghazra/github-readme-stats)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Astrobot-me&show_icons=true&theme=radical)
+tats)
 
 
