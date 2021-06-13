@@ -20,4 +20,4 @@
 
 ![Logo](https://images.unsplash.com/photo-1611162616475-46b635cb6868?ixid=MnwxMjA3fDB8MHxzZWFyY2h8Mnx8eW91dHViZXxlbnwwfHwwfHw%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=500&q=60)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=astrobot-me)](https://github.com/anuraghazra/github-readme-stats)
+
