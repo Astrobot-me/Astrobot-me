@@ -4,7 +4,9 @@
 - CS Undergrad 👦
 - Astrophile 👨‍🚀
 - Working on Model Rockets & Flight Computers 🚀
-- Documenting My work on github as well as on my [Youtube](https://www.youtube.com/@8bit_chronicles)
+- Documenting My work on github as well as on my [Youtube](https://www.youtube.com/@EdgelessCoder/)
+
+  
 ![Dynamic JSON Badge](https://img.shields.io/badge/dynamic/json)
 
 
