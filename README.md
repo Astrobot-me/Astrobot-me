@@ -14,7 +14,7 @@
 
 ## Github Stats
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Astrobot-me&show_icons=true&theme=prussian)
+![Aditya's GitHub stats](https://github-readme-stats.vercel.app/api?username=Astrobot-me&show_icons=true&theme=prussian)
 
 ## Language Stats
 
