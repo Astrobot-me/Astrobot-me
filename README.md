@@ -3,8 +3,7 @@
 > ## About myself
 - CS Undergrad 👦
 - Astrophile 👨‍🚀
-- Working on Model Rockets & Flight Computers 🚀
-- Documenting My work on github as well as on my [Youtube](https://www.youtube.com/@EdgelessCoder/)
+- Documenting My work on github, Social Media and on my Youtube Channel as well  [Youtube](https://www.youtube.com/@EdgelessCoder/)
 
 
 ![Static Badge](https://img.shields.io/badge/-Astrobot_me-blue?logo=twitter&logoColor=white&link=https%3A%2F%2Ftwitter.com%2FAstrobot_me)
