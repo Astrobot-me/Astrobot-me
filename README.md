@@ -1,7 +1,7 @@
 
 > # Astrobot 
 # 💫 About Me:
-🔭 I'm currently persuing Undergrad in Computer Science<br>💻 I'm a Linux Enthusiast <br>🚀 I like reading about Space mission & Rockets <br>🌱 I'm Currently Learning MERN Stack <br>🥊 I'm Currently making a Project on Computer Vision in Python <br>🗨️ Chat with me on Discord or X (formerly bluebird ) <br>
+🔭 I'm currently persuing Undergrad in Computer Science<br>💻 I'm a Linux Enthusiast <br>🚀 I like reading about Space mission & Rockets <br>🌱 I'm Currently Learning MERN Stack <br>🥊 I'm Currently making a Project on Computer Vision in Python <br>🗨️ Chat with me on Discord (astro.bot) or X (formerly bluebird ) <br>
 
 
 ## 🌐 Socials:
