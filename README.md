@@ -121,6 +121,6 @@
 <br/>
 <br/>
 
-[Snake animation](https://github.com/Astrobot-me/Astrobot-me/blob/output/github-contribution-grid-snake.svg)
+<img src="https://github.com/Astrobot-me/Astrobot-me/blob/output/github-contribution-grid-snake.svg" width="auto" />
 
 </div>
