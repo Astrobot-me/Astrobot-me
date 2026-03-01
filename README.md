@@ -8,7 +8,9 @@
 
 <br/>
 
-<img src="https://github-production-user-asset-6210df.s3.amazonaws.com/72189934/556606721-0955ad17-3053-460f-9649-533687f5ab86.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAVCODYLSA53PQK4ZA%2F20260301%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20260301T170054Z&X-Amz-Expires=300&X-Amz-Signature=2d51e90acc92cb62dba7740e6fa55da6d596dd44097ce08f60b9624390695595&X-Amz-SignedHeaders=host"  width="auto" height="auto" alt="Full Stack Developer" />
+<img src="https://github.com/user-attachments/assets/735e5111-9070-4423-873d-5c9f10772104"  width="auto" height="auto" alt="Full Stack Developer" />
+<!-- <img width="1584" height="396" alt="Full Stack Developer" src="https://github.com/user-attachments/assets/735e5111-9070-4423-873d-5c9f10772104" /> -->
+
 
 <br/>
 
