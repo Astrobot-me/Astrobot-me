@@ -121,6 +121,8 @@
 <br/>
 <br/>
 
-<img src="https://github.com/Astrobot-me/Astrobot-me/blob/output/github-contribution-grid-snake.svg" width="auto" />
+<div align="center">
+  <img src="https://github.com/Astrobot-me/Astrobot-me/blob/output/github-snake-dark.svg" />
+</div>
 
 </div>
