@@ -119,8 +119,6 @@
 
 ### 📊 Commit Activity
 <br/>
-<br/>
-
 <div align="center">
   <img src="https://github.com/Astrobot-me/Astrobot-me/blob/output/github-snake-dark.svg" />
 </div>
