@@ -21,6 +21,7 @@
 [![Discord](https://img.shields.io/badge/Discord-astro.bot-5865F2?style=for-the-badge&logo=discord&logoColor=white)](#)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Aditya%20Raj-0A63BC?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/astro-adityaraj/)
 [![Hashnode](https://img.shields.io/badge/Hashnode-blog-2962FF?style=for-the-badge&logo=hashnode&logoColor=white)](https://blog.astrobot.tech/)
+[![Kaggle](https://img.shields.io/badge/Kaggle-Aditya-39B0ED?style=for-the-badge&logo=kaggle&logoColor=white)](https://www.kaggle.com/adityamv33)
 
 <br/>
 
