@@ -19,7 +19,7 @@
 [![Email](https://img.shields.io/badge/Email-aditya.me269@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:aditya.me269@gmail.com)
 [![X](https://img.shields.io/badge/X-@maxthirty3-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/maxthirty3)
 [![Discord](https://img.shields.io/badge/Discord-astro.bot-5865F2?style=for-the-badge&logo=discord&logoColor=white)](#)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Aditya-Raj-5865F2?style=for-the-badge&logo=linkedin&logoColor=white)](linkedin.com/in/astro-adityaraj/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Aditya-Raj-0A63BC?style=for-the-badge&logoColor=white)](linkedin.com/in/astro-adityaraj/)
 [![Hashnode](https://img.shields.io/badge/Hashnode-blog-2962FF?style=for-the-badge&logo=hashnode&logoColor=white)](https://blog.astrobot.tech/)
 
 <br/>
@@ -76,7 +76,7 @@
 <br/>
 <br/>
 <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white" alt="LangChain" />
-<img src="https://img.shields.io/badge/LangGraph-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white" alt="LangGraph" />
+<img src="https://img.shields.io/badge/LangGraph-1C3C3C?style=for-the-badge&logo=langgraph&logoColor=white" alt="LangGraph" />
 <img src="https://img.shields.io/badge/Agent_Development_Kit-000000?style=for-the-badge" alt="Agent Development Kit" />
 <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" alt="PyTorch" />
 <br/>
