@@ -16,7 +16,7 @@
 <br/>
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-astrobot.tech-000000?style=for-the-badge&logo=googlechrome&logoColor=white)](https://astrobot.tech)
-[![Email](https://img.shields.io/badge/Email-aditya.me269@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:aditya.me269@gmail.com)
+[![Email](https://img.shields.io/badge/Email-aditya.me269@gmail.com-000000?style=for-the-badge&logo=protonmail&logoColor=white)](mailto:aditya.me269@gmail.com)
 [![X](https://img.shields.io/badge/X-@maxthirty3-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/maxthirty3)
 [![Discord](https://img.shields.io/badge/Discord-astro.bot-5865F2?style=for-the-badge&logo=discord&logoColor=white)](#)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Aditya%20Raj-0A63BC?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/astro-adityaraj/)
