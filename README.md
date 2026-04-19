@@ -41,6 +41,17 @@
 - 🪙 Built my own Solana Crypto Token Called as [ADIT Coins | ARDT](https://explorer.solana.com/address/BTJ4cPPwssx6b7jy9GoUyBeLBxufyCSoUzvuegEUCVx8?cluster=devnet)
 <br/>
 
+```typescript
+
+const current_work_scope = {
+  transformers : "writing transformers from scratch",
+  fine_tuning : "Collecting Indian Science Data for CPT, then SFT fine tuning ",
+  gemma_love : "Preping for gemma 4 good "
+
+}
+
+```
+
 
 <div align="center">
 
