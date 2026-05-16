@@ -23,6 +23,7 @@
 [![Hashnode](https://img.shields.io/badge/Hashnode-blog-2962FF?style=for-the-badge&logo=hashnode&logoColor=white)](https://blog.astrobot.tech/)
 [![Kaggle](https://img.shields.io/badge/Kaggle-Aditya-39B0ED?style=for-the-badge&logo=kaggle&logoColor=white)](https://www.kaggle.com/adityamv33)
 
+[![Google Developer Group Organizer](https://img.shields.io/badge/Portfolio-astrobot.tech-000000?style=for-the-badge&logo=googlechrome&logoColor=white)](https://gdg.community.dev/gdg-on-campus-roorkee-institute-of-technology-roorkee-india/)
 <br/>
 
 <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" alt="Pixel Art Desk Setup" width="600" />
