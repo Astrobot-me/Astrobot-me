@@ -4,7 +4,7 @@
 
 # Aditya Raj
 
-### Full-Stack Developer | GDG Organizer Lead | AI Enthusiast
+### AI Developer | Building Full-Stack Solutions | Scoping Different Technologies | Ex-GDG Organizer Lead 
 
 <br/>
 
@@ -62,7 +62,7 @@ const current_work_scope = {
 <br/>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=typescript,java,python,nodejs" />
+    <img src="https://skillicons.dev/icons?i=typescript,java,python,nodejs,golang" />
   </a>
 </p>
 
