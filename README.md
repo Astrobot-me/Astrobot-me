@@ -103,12 +103,23 @@ const current_work_scope = {
 
 <div align="center">
 
+
 **Other Tools**
 <br/>
 
 <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=figma,aws,git,bun,firebase,postman" />
+  </a>
+</p>
+<br/>
+
+**AI Tools**
+<br/>
+
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=cursor,opencode,googlecolaboratory,huggingface,kaggle,n8n" />
   </a>
 </p>
 <br/>
