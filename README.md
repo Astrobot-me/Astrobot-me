@@ -4,7 +4,7 @@
 
 # Aditya Raj
 
-### AI Developer | Building Full-Stack Solutions | Scoping Different Technologies | Ex-GDG Organizer Lead 
+### AI Developer | Building Full-Stack Solutions | Scoping Automations | Ex-GDG Organizer Lead 
 
 <br/>
 
@@ -119,7 +119,18 @@ const current_work_scope = {
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=cursor,opencode,googlecolaboratory,huggingface,kaggle,n8n" />
+    <img src="https://skills.syvixor.com/api/icons?i=cursor,opencode,codex,geminicli,googlecolaboratory,huggingface,kaggle,n8n,openclaw" />
+  </a>
+</p>
+<br/>
+
+**LLMs**
+
+<br/>
+
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skills.syvixor.com/api/icons?i=googlegemini,claudeai,chatgpt,githubcopilot" />
   </a>
 </p>
 <br/>
