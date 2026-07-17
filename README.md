@@ -88,10 +88,11 @@ const current_work_scope = {
 **AI & Agent Frameworks**
 <br/>
 <br/>
-<img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white" alt="LangChain" />
+<a href="https">
+    <img src="https://skills.syvixor.com/api/icons?i=pytorch,langchain,googleadk&perline=12&radius=40" />
 <img src="https://img.shields.io/badge/LangGraph-1C3C3C?style=for-the-badge&logo=langgraph&logoColor=white" alt="LangGraph" />
-<img src="https://img.shields.io/badge/Agent_Development_Kit-000000?style=for-the-badge" alt="Agent Development Kit" />
-<img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" alt="PyTorch" />
+  </a>
+
 <br/>
 
 **Web3**
@@ -125,9 +126,6 @@ const current_work_scope = {
 <br/>
 
 **LLMs**
-
-<br/>
-
 <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skills.syvixor.com/api/icons?i=googlegemini,claudeai,chatgpt,githubcopilot" />
